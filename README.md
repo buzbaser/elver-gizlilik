@@ -1,0 +1,2 @@
+# elver-gizlilik
+Gizlilik Politikasi
