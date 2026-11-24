@@ -17,6 +17,6 @@ Bu uygulama tıbbi teşhis, tanı, tedavi veya profesyonel sağlık danışmanl�
 
 ## 4. İletişim
 Gizlilik politikamızla ilgili sorularınız için geliştirici ile iletişime geçebilirsiniz:
-* **E-posta:** [KENDI_EPOSTA_ADRESINIZ@GMAIL.COM]
+* **E-posta:** [elver@gmail.com]
 # elver-gizlilik
 Gizlilik Politikasi
